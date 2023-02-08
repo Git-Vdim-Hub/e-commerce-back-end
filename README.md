@@ -107,7 +107,8 @@ This application was built with the use of [nodejs](https://nodejs.dev/en/) and 
 [sequelize](https://www.npmjs.com/package/sequelize?activeTab=readme), 
 [dotenv](https://www.npmjs.com/package/dotenv), 
 [nodemon](https://www.npmjs.com/package/nodemon), 
-[mysql2](https://www.npmjs.com/package/mysql2)
+[mysql2](https://www.npmjs.com/package/mysql2),
+[express](https://www.npmjs.com/package/express)
 ## License
 
 [MIT](https://choosealicense.com/)

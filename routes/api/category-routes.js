@@ -1,3 +1,4 @@
+//import dependencies and models
 const router = require('express').Router();
 const { Category, Product } = require('../../models');
 

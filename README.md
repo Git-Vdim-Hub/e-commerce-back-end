@@ -28,7 +28,7 @@ DB_NAME = ecommerce_db
 DB_PASSWORD =
 Make sure you have sql installed. If you do not please follow [sql install guide](https://coding-boot-camp.github.io/full-stack/mysql/mysql-installation-guide)
 
-Once SQL is installed, cd into the db folder, log into sql and run the following command:
+Once SQL is installed, cd into the db folder, log into sql (for gitbash users on windows use: winpty mysql -u root -p) and run the following command:
 ```
 SOURCE schema.sql
 ```

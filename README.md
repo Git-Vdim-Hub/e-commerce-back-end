@@ -23,9 +23,9 @@ After cloning repo, please make sure you have nodejs installed then run the foll
 npm i
 ```
 After installation add a .env file in the root of the file system and add the following variables with your own credentials:
-USER=''
-DB='hr_db'
-PASS=''
+DB_USER = root
+DB_NAME = ecommerce_db
+DB_PASSWORD =
 Make sure you have sql installed. If you do not please follow [sql install guide](https://coding-boot-camp.github.io/full-stack/mysql/mysql-installation-guide)
 
 Once SQL is installed, cd into the db folder, log into sql and run the following command:
@@ -37,7 +37,7 @@ After quit out of sql, cd back into the project root directory and run the follo
 npm run seed
 ```
 
-Additionally, please install [insomnia](https://insomnia.rest/) to test out the API calls with the application 
+Additionally, please install [insomnia](https://insomnia.rest/download) to test out the API calls with the application 
 ## Usage
 Once everything is set up, run the following command to get started:
 ```
